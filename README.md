@@ -1,6 +1,7 @@
 Data for Shin et al., Spatial organization of functional clusters representing reward and movement information in the striatal direct and indirect pathways
 
 Code information
+
 regressCC: code for regression analysis of variables in classical conditioning task
 behavior_regression: code for regression analysis of variables in open field test
 
@@ -12,6 +13,7 @@ spatio_correlation: spatial clustering algorithm using coefficient and spatial m
 autocorrelation: gaussian filtered spaital map and autocorrelation
 
 Data structure
+
 clustsize: calculated cluster size with pairwise correlation (result from correlation_decay.m) and functional cluster (spatio_correlation) of 13 mice
 behav_regression_session2_5: results from regression analysis of 4 behavior (forward, stop, contralatera turn and ipsilateral turn)
 Tot_Spcor_coef_behav: Spatial clustering of neurons from 13 mice (result of the code: spatio_correlation.m) in open field test
